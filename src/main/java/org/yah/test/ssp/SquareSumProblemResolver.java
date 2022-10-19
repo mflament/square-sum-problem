@@ -7,7 +7,7 @@ import java.util.Optional;
 import java.util.stream.Stream;
 
 /**
- * <a href=https://www.youtube.com/watch?v=G1m7goLCJDY>Square sum problem</a> resolver
+ * <a href="https://www.youtube.com/watch?v=G1m7goLCJDY">Square sum problem</a> resolver
  */
 public class SquareSumProblemResolver {
 
